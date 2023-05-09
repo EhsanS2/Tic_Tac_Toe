@@ -113,12 +113,14 @@ body {
 @media (max-width: 600px) {
     .mode,
     .side {
-        width: 60%;
+        width: 80%;
         height: 230px;
         left: 20%;
     }
     .pvsp,
-    .pvsc,
+    .pvsc {
+        width: 100%;
+    }
     .xo {
         width: 90%;
         margin: 5px;
